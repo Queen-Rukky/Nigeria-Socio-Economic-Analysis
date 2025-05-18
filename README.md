@@ -1,5 +1,16 @@
 # Nigeria-Socio-Economic-Analysis
-# Exchange Rate and Nigeria Government Dashboard
+# Table of content
+- [Project Overview](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-project-overview)
+- [Exchange Rate and Nigeria Government Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#exchange-rate-and-nigeria-government-dashboard)
+- [Key Features](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-key-features)
+- [Tools and Technologies Used](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-tools-and-technologies-used)
+- [Data Coverage](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-data-coverage)
+- [How To Use This Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-how-to-use-this-dashboard)
+- [Potential Use Cases](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-potential-use-cases)
+- [Future Improvement](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-future-improvements)
+- [Author Introduction](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-created-by)
+- [License](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-license)
+
 
 ## 📊 Project Overview
 This Power BI project presents a comprehensive analysis of Nigeria's macroeconomic environment between the years 2010 and 2021. It brings together multiple economic indicators to allow users to explore and understand how Nigeria's economy evolved over time under different government administrations.
@@ -9,6 +20,8 @@ The dashboard provides a visual narrative of the intricate relationship between 
 It empowers users with dynamic filtering, clear visuals, and calculated KPIs to enable quick decision-making and deeper research into Nigeria’s economic trends.
 
 ---
+# Exchange Rate and Nigeria Government Dashboard
+ ![Image](https://github.com/user-attachments/assets/1aed9b17-8c16-49b2-94c0-0339cd454265)
 
 ## 🧩 Key Features
 
@@ -90,6 +103,27 @@ It empowers users with dynamic filtering, clear visuals, and calculated KPIs to 
 ## 👩‍💻 Created By
 - **Rukayat Adebisi Obanor**  
 - Passionate about data analysis, visualization, and making economic information accessible to everyone.
+- MIT License
+
+Copyright (c) 2025 Rukayat Adebisi Obanor
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ---
 
