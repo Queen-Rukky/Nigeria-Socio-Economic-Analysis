@@ -1,15 +1,15 @@
 # Nigeria-Socio-Economic-Analysis
 # Table of content
-- [Project Overview](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-project-overview)
-- [Exchange Rate and Nigeria Government Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#exchange-rate-and-nigeria-government-dashboard)
-- [Key Features](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-key-features)
-- [Tools and Technologies Used](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-tools-and-technologies-used)
-- [Data Coverage](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-data-coverage)
-- [How To Use This Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-how-to-use-this-dashboard)
-- [Potential Use Cases](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-potential-use-cases)
+- [Project Overview](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis#-project-overview)
+- [Exchange Rate and Nigeria Government Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#exchange-rate-and-nigeria-government-dashboard)
+- [Key Features](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-key-features)
+- [Tools and Technologies Used](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-tools-and-technologies-used)
+- [Data Coverage](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-data-coverage)
+- [How To Use This Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-how-to-use-this-dashboard)
+- [Potential Use Cases](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-potential-use-cases)
 - [Future Improvement](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-future-improvements)
-- [Author Introduction](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-created-by)
-- [License](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-license)
+- [Author Introduction](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-future-improvements)
+- [License](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-created-by)
 
 
 ## 📊 Project Overview
@@ -103,6 +103,9 @@ It empowers users with dynamic filtering, clear visuals, and calculated KPIs to 
 ## 👩‍💻 Created By
 - **Rukayat Adebisi Obanor**  
 - Passionate about data analysis, visualization, and making economic information accessible to everyone.
+
+## 📜 License
+This project is licensed for educational and informational purposes. Commercial use requires permission from the creator.
 - MIT License
 
 Copyright (c) 2025 Rukayat Adebisi Obanor
@@ -126,6 +129,3 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
-
-## 📜 License
-This project is licensed for educational and informational purposes. Commercial use requires permission from the creator.
