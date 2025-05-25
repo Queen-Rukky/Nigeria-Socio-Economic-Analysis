@@ -7,7 +7,7 @@
 - [Data Coverage](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-data-coverage)
 - [How To Use This Dashboard](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-how-to-use-this-dashboard)
 - [Potential Use Cases](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-potential-use-cases)
-- [Future Improvement](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis/edit/main/README.md#-future-improvements)
+- [Future Improvement](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-future-improvements)
 - [Author Introduction](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-future-improvements)
 - [License](https://github.com/Queen-Rukky/Nigeria-Socio-Economic-Analysis?tab=readme-ov-file#-created-by)
 
